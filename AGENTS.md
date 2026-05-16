@@ -201,9 +201,9 @@ Default modes are in `modes/` (English). Additional language-specific modes are 
 | If the user... | Mode |
 |----------------|------|
 | Pastes JD or URL | auto-pipeline (evaluate + report + PDF + tracker) |
-| Asks to evaluate offer | `oferta` |
-| Asks to compare offers | `ofertas` |
-| Wants LinkedIn outreach | `contacto` |
+| Asks to evaluate offer | `offer` (read `modes/oferta.md`) |
+| Asks to compare offers | `offers` (read `modes/ofertas.md`) |
+| Wants LinkedIn outreach | `contact` (read `modes/contacto.md`) |
 | Asks for company research | `deep` |
 | Preps for interview at specific company | `interview-prep` |
 | Wants to generate CV/PDF | `pdf` |
